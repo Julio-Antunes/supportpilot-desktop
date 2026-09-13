@@ -7,10 +7,18 @@ Este repositório distribui os instaladores. O código-fonte e os dados dos usu�
 ## Instalar
 
 1. Abra a seção **Releases** deste repositório.
-2. Baixe o arquivo `SupportPilot-Desktop-Teste-0.1.0-Setup.exe` da versão desejada.
+2. Baixe o arquivo `SupportPilot-Desktop-Teste-0.2.0-Setup.exe` da versão desejada.
 3. Execute o instalador e siga as instruções.
 
 Não é necessário instalar Python, Node.js ou configurar um banco online. Esta é uma versão de teste, ainda sem certificado de assinatura digital.
+
+## Clientes e lembretes
+
+A versão 0.2.0 inclui cadastro de clientes com histórico de chamados, projetos e tablets. Os campos dos formulários sugerem os nomes já cadastrados.
+
+Os lembretes aparecem 15 minutos antes dos compromissos, com atualização a cada 30 segundos. Mantenha o aplicativo aberto, inclusive minimizado. Para receber avisos do Windows, instale pelo instalador e permita notificações nas configurações do sistema. Compromissos cancelados ou atividades concluídas não geram novos avisos.
+
+Para atualizar, exporte um backup, feche o aplicativo e instale no mesmo local da versão anterior.
 
 ## Dados e backup
 
